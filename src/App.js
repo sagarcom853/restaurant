@@ -12,6 +12,7 @@ class App extends React.Component {
       return(
         <div>
             Hi i am counter {this.state.counter}
+            <button>Click me</button>
             <button onClick={this.HandleChange}>Change Counter</button>
         </div>
       )
