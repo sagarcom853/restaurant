@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.copyright{ 
+
+  background-color:peachpuff;
+  border-color: aqua;
+  border-radius: 5px;
+}
+.margin{
+  margin: 10px;
+}
